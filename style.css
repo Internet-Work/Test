@@ -1,0 +1,11 @@
+// Style v0
+
+#main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.test {
+  background-color: #aaaaaa;
+  text-color: #f0af0f;
+}
